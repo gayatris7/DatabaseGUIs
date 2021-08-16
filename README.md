@@ -1,4 +1,4 @@
-# Database GUIs - Building Admin Panels with Low-Code
+#Building Admin Panels with Low-Code
 
 Low-code platform gives teams a quick and easy solution to create interactive admin panels and other database guis that are more powerful and robust than most CRUD interfaces.
 
